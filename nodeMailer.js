@@ -6,7 +6,7 @@ var transporter = nodemailer.createTransport({
   host: 'smtp.gmail.com',
   auth: {
     user: 'renatoguara2020@gmail.com',
-    pass: 'dtkisoqxwwhnxpgtvvv'
+    pass: 'dtkisoqxwwhnxpgtmnbvcxz'
   }
 });
 
