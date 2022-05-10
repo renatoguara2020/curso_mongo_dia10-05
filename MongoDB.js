@@ -1,7 +1,7 @@
 var MongoClient = require('mongodb').MongoClient;
 
 // Connect to the db
-MongoClient.connect("mongodb://localhost:27017/primeirobanco", function (err, db) {
+MongoClient.connect("mongodb://localhost:27017/primeiroBanco", function (err, db) {
    
      if(err) throw err;
 
